@@ -383,45 +383,6 @@ class PinnedScreen extends StatelessWidget {
             ),
           ],
         ),
-        // FloatingActionButton(
-        //   onPressed: () {},
-        //   mini: true,
-        //   child: const Icon(Icons.done),
-        // ),
-        // const SizedBox(height: 5.0),
-        // FloatingActionButton(
-        //   onPressed: () {
-        //     showDialog(
-        //       context: context,
-        //       builder: ((BuildContext context) {
-        //         return AlertDialog(
-        //           // shadowColor: Colors.grey,
-        //           title: const Text(
-        //             'delete',
-        //             style: TextStyle(color: Colors.red),
-        //           ),
-        //           content: const Text('are you sure!!'),
-        //           actions: [
-        //             TextButton(
-        //               onPressed: () {
-        //                 Navigator.of(context).pop();
-        //               },
-        //               child: const Text('cancel'),
-        //             ),
-        //             TextButton(
-        //               onPressed: () {
-        //                 Navigator.of(context).pop();
-        //               },
-        //               child: const Text('yes'),
-        //             ),
-        //           ],
-        //         );
-        //       }),
-        //     );
-        //   },
-        //   mini: true,
-        //   child: const Icon(Icons.delete),
-        // ),
       ),
     ],
   );
